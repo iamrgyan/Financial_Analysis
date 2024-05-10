@@ -4,4 +4,4 @@ Welcome! Here you'll find a diverse collection of projects focusing on both Gene
 ### Financial Analysis
 - **Description**
 - Preparation of Financial Statements of a Company
-### [Candle Hut Financial Statement](https://github.com/iamrgyan/Project_2024/blob/main/Candle%20Hut_Financial_Statement.xlsx)
+### [Financial Statements](https://github.com/iamrgyan/Project_2024/blob/main/Candle%20Hut_Financial_Statement.xlsx)
