@@ -3,3 +3,4 @@ Welcome! Here you'll find a diverse collection of projects focusing on both Gene
 
 ### Financial Analysis
 - **[Financial Statements](https://github.com/iamrgyan/Project_2024/blob/main/Candle%20Hut_Financial_Statement.xlsx)**
+- **[Financial Statements Forecast](https://github.com/iamrgyan/Project_2024/blob/main/BN%20Solutions%20Financial%20Statement%20Forecast.xlsx)**
