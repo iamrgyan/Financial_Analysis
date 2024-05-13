@@ -5,3 +5,4 @@ Welcome! Here you'll find a diverse collection of projects focusing on both Gene
 - **[Financial Statements](https://github.com/iamrgyan/Project_2024/blob/main/Candle%20Hut_Financial_Statement.xlsx)**
 - **[Financial Statements Forecast](https://github.com/iamrgyan/Project_2024/blob/main/BN%20Solutions%20Financial%20Statement%20Forecast.xlsx)**
 - **[Project NOPAT,Net Working Capital, FCF, Project Valuation, IRR,Profitability Index](https://github.com/iamrgyan/Project_2024/blob/main/ABP%20Buildcon%20NOPAT_FCF_Project%20Valuation.xlsx)**
+- **[Free Cah Flow to Firm & Equity, FCFF, FCFE](https://github.com/iamrgyan/Project_2024/blob/main/SNC%20Limited%20FCFF%20%26%20FCFE.xlsx)**
