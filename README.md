@@ -8,3 +8,5 @@ Welcome! Here you'll find a diverse collection of projects focusing on both Gene
 - **[Free Cah Flow to Firm & Equity, FCFF, FCFE](https://github.com/iamrgyan/Project_2024/blob/main/SNC%20Limited%20FCFF%20%26%20FCFE.xlsx)**
 - **[Enterprise Value and Equity Per Share](https://github.com/iamrgyan/Project_2024/blob/main/SNC%20Limited%20Company%20Valuation%20FCFF.xlsx)**
 - **[Relative Valuation, PE and PB Multiple](https://github.com/iamrgyan/Project_2024/blob/main/Eco%20India%20Company%20Relative%20Valuation.xlsx)**
+#### Tata Motors
+- **[Financial Statement Analysis & Dashboard](https://github.com/iamrgyan/Project_2024/blob/main/Tata%20Motors%20Financial%20Statements_Dashboard.xlsx)**
