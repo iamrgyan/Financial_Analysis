@@ -1,4 +1,4 @@
-### Financial Analysis
+## Financial Analysis
 Welcome! Here you'll find a diverse collection of projects focused on Financial Data Analytics.
 
 
